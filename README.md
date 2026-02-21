@@ -3,6 +3,7 @@
 ### a guy with too much time on his hands
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falseembedder" alt="falseembedder" /></a> </p>
+![](https://komarev.com/ghpvc/?username=falseembedder&abbreviated=true)
 
 - 🔭 I'm currently working on **VaultRadar its a software that help's users detect sensitive, encrypted, or crypto-related data hidden inside messy folders and drives.**
 
