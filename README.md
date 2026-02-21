@@ -2,9 +2,10 @@
 
 ### a guy with too much time on his hands
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falseembedder" alt="falseembedder" /></a> </p>
-https://komarev.com/ghpvc/?username=falseembedder&abbreviated=true
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/falseembedder/github-profile-views-counter
 
+![](https://hit.yhype.me/github/profile?account_id=1849174)
 - 🔭 I'm currently working on **VaultRadar its a software that help's users detect sensitive, encrypted, or crypto-related data hidden inside messy folders and drives.**
 
 - 🤝 I'm looking for help with **my current project VaultRadar**
